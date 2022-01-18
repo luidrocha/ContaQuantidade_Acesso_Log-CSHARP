@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContantoQuantidadeDeacessosLog", "ContantoQuantidadeDeacessosLog\ContantoQuantidadeDeacessosLog.csproj", "{2981A1EC-F771-4079-986B-6D8886B468EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2981A1EC-F771-4079-986B-6D8886B468EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2981A1EC-F771-4079-986B-6D8886B468EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2981A1EC-F771-4079-986B-6D8886B468EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2981A1EC-F771-4079-986B-6D8886B468EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B98D43-E862-48A4-91E4-E036D5EF645F}
+	EndGlobalSection
+EndGlobal
